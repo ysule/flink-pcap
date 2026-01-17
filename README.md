@@ -16,5 +16,5 @@ and running.
 To run the job locally, the IDE setting **"Add Dependencies in Provided scope to Classpath"** is to be selected before
 executing the Main Class.
 
-I would appreciate it if the users can give this repoitory a "Star" if they find it useful and are able to leverage it
+I would appreciate it if the users can give this repoitory a ⭐ if they find it useful and are able to leverage it
 in their day to day tasks.
